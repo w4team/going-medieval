@@ -1,4 +1,5 @@
-﻿"action_UrgentHaul","Urgent Haul"
+﻿"teszt","teszt"
+"action_UrgentHaul","Urgent Haul"
 "action_attack","Attack"
 "action_attack_disabled","Attack Disabled"
 "action_attacking","Attacking"
